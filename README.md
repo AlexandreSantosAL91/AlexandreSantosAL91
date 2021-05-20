@@ -3,7 +3,6 @@ Hello, I'm Alexandre Santos, a passionate Front-end web developer.
 Studying Analysis and Systems Development
 
 <div>
-  <a href="https://github.com/AlexandreSantosAL91">
   <img height="180em" src="https://github.com/AlexandreSantosAL91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresantosal91&layout=compact&langs_count=16&theme=dracula"/>
 </div>
