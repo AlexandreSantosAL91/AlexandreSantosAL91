@@ -1,4 +1,4 @@
-Hello, I'm Alexandre Santos, a passionate Front-end web developer.
+Studying Analysis and Systems Development
 
 ##
 
