@@ -19,5 +19,4 @@ Hello, I'm Alexandre Santos, a passionate Front-end web developer.
   <a href="https://discord.gg/veQa8cJhqU" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://t.me/joinchat/f5DPL2J0hwhiZDYx " target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
-  
 ##
