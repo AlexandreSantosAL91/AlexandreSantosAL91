@@ -1,7 +1,10 @@
 <p align="center">
-</p>
-</br>
-</br>
+  <a href="#">
+    <img align="center" width="300" src="alexandre.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="165" src="giphy.gif" />
+  </a>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
