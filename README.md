@@ -9,14 +9,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantosAL91&layout=compact"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=alexandresantosal91&theme=chartreuse-dark&show_icons=true"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=AlexandreSantosAL91&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantosAL91&layout=compact&langs_count=16&theme=chartreuse-dark"
     />
   </a>
 </p>
