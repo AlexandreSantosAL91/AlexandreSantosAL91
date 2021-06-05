@@ -22,8 +22,8 @@
 
 ### Abstract
 
-- 👨‍💻 Front-end Web Developer Jr. **freelance**.
-- 🌱 Estudante de Análise e Desenvolvimento de Sistema, 1° semestre.
+- 👨‍💻 Front-end Web Developer Jr. **Freelancer**.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistema, 1° período.
 - 💙 Interesses: HTML, CSS, javaScript, Python.
 
 ## Skills :nerd_face:
