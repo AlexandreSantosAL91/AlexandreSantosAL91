@@ -25,9 +25,9 @@
 
 ### Abstract
 
-- 👨‍💻 Front-end Web Developer Jr. **Freelancer**.
+- 👨‍💻 Backend Developer Jr. **Freelancer**.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistema, 1° período.
-- 💙 Interesses: HTML, CSS, javaScript, Python.
+- 💙 Interesses: JavaScript, Python e GoLang.
 
 ## Skills :nerd_face:
 <p align="center">
@@ -42,6 +42,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
 </p>
