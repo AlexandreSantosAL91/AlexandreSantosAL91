@@ -19,7 +19,7 @@
 ### Abstract
 
 - 👨‍💻 Back-end Developer Jr. **Freelancer**.
-- 🌱 Estudante de Análise e Desenvolvimento de Sistema, 1° período.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistema, 2° período.
 - 💙 Interesses: HTML5, CSS3, GoLang e Python.
 
 ## Skills :nerd_face:
