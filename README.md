@@ -18,9 +18,9 @@
 
 ### Abstract
 
-- 👨‍💻 Back-end Developer Jr. **Freelancer**.
+- 👨‍💻 Back-end Developer Jr.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistema, 2° período.
-- 💙 Interesses: HTML5, CSS3, JavaScript, Python e GoLang.
+- 💙 Interesses: HTML5, CSS3, JavaScript, Golang e Adobe Photoshop.
 
 ## Skills :nerd_face:
 <p align="center">
@@ -30,11 +30,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
+    <img height="40" src= "https://camo.githubusercontent.com/2e362f04634f0926afec1963244a43d1d9f3c8df1e61889d5bb4fb985ce857b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3134316132303f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70">   
 </p>
 
 ## Contact :iphone:
