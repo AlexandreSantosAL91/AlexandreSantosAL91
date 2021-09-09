@@ -18,9 +18,9 @@
 
 ### Abstract
 
-- 👨‍💻 Back-end Developer Jr.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistema, 2° período.
 - 💙 Interesses: HTML5, CSS3, JavaScript, Golang e Adobe Photoshop.
+- 👨‍💻 Coordenador de Marketing e Projetos T.I.
 
 ## Skills :nerd_face:
 <p align="center">
