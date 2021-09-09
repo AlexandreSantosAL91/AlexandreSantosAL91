@@ -18,9 +18,9 @@
 
 ### Abstract
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistema, 2° período.
-- 💙 Interesses: HTML5, CSS3, JavaScript, Golang e Adobe Photoshop.
-- 👨‍💻 Coordenador de Marketing e Projetos T.I.
+- 🌱 Student of System Analysis and Development, 2nd period.
+- 💙 Interests: HTML5, CSS3, JavaScript, Golang e Adobe Photoshop.
+- 👨‍💻 Marketing and IT Project Coordinator.
 
 ## Skills :nerd_face:
 <p align="center">
