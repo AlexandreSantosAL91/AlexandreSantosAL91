@@ -30,9 +30,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://github.com/AlexandreSantosAL91/AlexandreSantosAL91/blob/main/icons/373286.png">
+    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/The-Go-Programming-Language.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://github.com/AlexandreSantosAL91/AlexandreSantosAL91/blob/main/icons/373285.png">   
+    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/Adobe-Photoshop-2020.png">   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
