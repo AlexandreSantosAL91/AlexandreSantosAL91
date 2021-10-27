@@ -18,9 +18,8 @@
 
 ### Sobre mim
 
-- 👨‍💻  Coordenador de Projetos de Marketing e TI. no **Alegria Foto Studio**.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 2° semestre.
-- 🎯 Interesse: HTML5, CSS3, Golang, Canvas e Adobe Photoshop.
+- 🎯 Interesse: HTML5, CSS3, PHP e Golang.
 - 🦊 Quando me perguntaram o que eu queria ser? há uns anos atrás a minha resposta foi "POWER RANGERS" e hoje eu estudo pra ser desenvolvedor de software e Coordenador de Projetos de Marketing Digital, nada haver. Fã do anime Os Cavaleiros do Zodíaco. 
 - 🎮 Gosta de jogar League of Legends? É só chamar, vamos subir de "ELOS" juntos ou não hehehe
 
@@ -30,11 +29,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/php-icons.png">   
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/The-Go-Programming-Language.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/canvasIcons.png">   
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/Adobe-Photoshop-2020.png">   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
