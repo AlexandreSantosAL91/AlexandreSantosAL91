@@ -37,20 +37,27 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center"> 
+
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://github.com/AlexandreSantosAL91">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/AlexandreSantosAL91">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:alexandresantos_al@hotmail.com">
-        <img src="https://img.shields.io/badge/hotmail-D14836?&style=for-the-badge&logo=hotmail&logoColor=white&link=mailto:alexandresantos_al@hotmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/alexandresantosal">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/alexandresantosal/">
-    </a>
+  <a href="https://linktr.ee/alexandresantos.com">
+  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/linktree.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:alexandresantos_al@hotmail.com">
+  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/msn.jpg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/alexandresantosal">
+  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/in.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+
+  <a href="https://github.com/AlexandreSantosAL91">
+  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/git.jpg">  
+</a>
+   
 </p>
 
 <p align="center"> 
