@@ -25,13 +25,15 @@
 
 ## Skills :nerd_face:
 <p align="center">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/php.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/html-5.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/php-icons.png">   
+    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/css-3.jpg">   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/The-Go-Programming-Language.png">
+    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/js.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/go.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
