@@ -25,15 +25,15 @@
 
 ## Skills :nerd_face:
 <p align="center">
-    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/php.png">
+    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/php.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/html-5.png">
+    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/html-5.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/css-3.jpg">   
+    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/css-3.jpg">   
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/js.png">
+    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/js.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/go.png">
+    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/go.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -56,15 +56,15 @@
 
   <a href="https://github.com/AlexandreSantosAL91">
   <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/git.jpg">  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-   
+    
 </p>
-
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/AlexandreSantosAL91/count.svg" />
+   <img height="35" alingn="center" src="https://profile-counter.glitch.me/AlexandreSantosAL91/count.svg" />
  </p>
 
 </p>
