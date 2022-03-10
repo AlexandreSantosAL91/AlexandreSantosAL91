@@ -33,7 +33,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/go.png">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/python.png">
+   <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/python.jpg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
