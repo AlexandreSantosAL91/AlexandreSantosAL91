@@ -19,7 +19,7 @@
 ### Sobre mim
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° semestre.
-- 🎯 Interesse: HTML5, CSS3, Javascript, Python e Golang.
+- 🎯 Interesse: HTML5, CSS3, Python e Golang.
 - 🦊 Quando me perguntaram o que eu queria ser? há uns anos atrás a minha resposta foi "POWER RANGERS" e hoje eu estudo pra ser desenvolvedor de software e Coordenador de Projetos de Marketing Digital, nada haver. Fã do anime Os Cavaleiros do Zodíaco. 
 - 🎮 Gosta de jogar League of Legends? É só chamar, vamos subir de "ELOS" juntos ou não hehehe
 
