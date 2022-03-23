@@ -18,10 +18,9 @@
 
 ### Sobre mim
 
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° semestre.
-- 🎯 Interesse: HTML5, CSS3, Javascript, Python e Golang.
-- 🦊 Quando me perguntaram o que eu queria ser? há uns anos atrás a minha resposta foi "POWER RANGERS" e hoje eu estudo pra ser desenvolvedor web utilizando as linguagens Python e Go, nada haver. Fã do anime Os Cavaleiros do Zodíaco. 
-- 🎮 Gosta de jogar League of Legends? É só chamar, vamos subir de "ELOS" juntos ou não hehehe
+👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° semestre.
+🎯 Interesse: HTML5, CSS3, Javascript, Python e Golang.
+🦊 Quando me perguntaram o que eu queria ser? A uns anos atrás a minha resposta foi ser "POWER RANGERS" e hoje estudo para ser torna um desenvolvedor front-end, nada haver. Fã do anime Os Cavaleiros do Zodíaco.
 
 ## Skills :nerd_face:
 <p align="center">
