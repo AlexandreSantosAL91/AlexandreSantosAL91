@@ -20,7 +20,7 @@
 
 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° semestre.
 
-🎯 Interesse: HTML5, CSS3, Javascript, Python e Golang.
+🎯 Interesse: HTML5, CSS3, Javascript e Golang.
 
 🦊 Quando me perguntaram o que eu queria ser? A uns anos atrás a minha resposta foi ser "POWER RANGERS" e hoje estudo para ser torna um desenvolvedor front-end, nada haver. Fã do anime Os Cavaleiros do Zodíaco.
 
@@ -31,8 +31,6 @@
    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/css-3.jpg">   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/js.png">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/python.jpg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="75" src="https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/go.png">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
