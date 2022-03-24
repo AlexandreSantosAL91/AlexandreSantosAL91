@@ -43,23 +43,24 @@
 ## Meus contatos
 
 <p align="center">
+ 
   <a href="https://linktr.ee/alexandresantos.com">
-  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/linktree.png">
+  <img height="75" src= "https://github.com/AlexandreSantosAL91/AlexandreSantosAL91/blob/main/img/redes-sociais/linktr.jpg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 
   <a href="mailto:alexandresantos_al@hotmail.com">
-  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/msn.jpg">
+  <img height="75" src= "https://github.com/AlexandreSantosAL91/AlexandreSantosAL91/blob/main/img/redes-sociais/outlook.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 
   <a href="https://www.linkedin.com/in/alexandresantosal">
-  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/in.png">
+  <img height="75" src= "https://github.com/AlexandreSantosAL91/AlexandreSantosAL91/blob/main/img/redes-sociais/linkedin.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
   </a>
 
-  <a href="https://github.com/AlexandreSantosAL91">
-  <img height="75" src= "https://raw.githubusercontent.com/AlexandreSantosAL91/AlexandreSantosAL91/main/icons/git.jpg">  
+  <a href="https://www.instagram.com/alexandresantosal91/">
+  <img height="75" src= "https://github.com/AlexandreSantosAL91/AlexandreSantosAL91/blob/main/img/redes-sociais/instagram.jpg">  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
     
